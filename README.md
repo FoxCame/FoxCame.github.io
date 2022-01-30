@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Landing Page of MitinoDAO
 
 You can use the [editor on GitHub](https://github.com/FoxCame/FoxCame.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
